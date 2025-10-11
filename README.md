@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Almanza</h1>
-<h3 align="center">A passionate learner in America</h3>
-
+<h3 align="center">A passionate learner
 - 🔭 I’m currently working on [web guessing game](github.com/gabea5935738/guessing_game_web)
 
 - 🌱 I’m currently learning **python, logic, circuitry**
